@@ -1,5 +1,3 @@
---// Nurysium last build  💖
---// Be happy about it
 
 local RobloxReplicatedStorage = cloneref(game:GetService('RobloxReplicatedStorage'))
 local RbxAnalyticsService = cloneref(game:GetService('RbxAnalyticsService'))
